@@ -1,0 +1,18 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "\"atelier mehdi\"",
+  "main": "\"\"",
+  "scripts": {
+    "start": "node wilders.js",
+    "test": "\"\""
+  },
+  "keywords": [
+    "node[node]"
+  ],
+  "author": "mehdi",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "2.4.2"
+  }
+}
